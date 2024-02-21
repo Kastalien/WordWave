@@ -65,7 +65,7 @@ fun Qofd(QotdViewModel: QotdViewModel = viewModel()) {
                 .fillMaxWidth()
                 .padding(start = 30.dp)
                 .padding(top = 15.dp)
-                .weight(0.1F),
+                .weight(0.2F),
             horizontalArrangement = Arrangement.Start
         )
         {
