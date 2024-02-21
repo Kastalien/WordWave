@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WordWave</string>
+    <string name="project_title">WordWave</string>
+    <string name="login_hint">login</string>
+    <string name="password_hint">password</string>
+    <string name="sing_in_sing_up">sing in/sing up</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="quote_of_the_day">Quote of the Day</string>
+    <string name="title_activity_qotd">QotdActivity</string>
+    <string name="title_activity_quotes">QuotesActivity</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="next_button">Next</string>
+    <string name="back_button">Back</string>
+    <string name="favorite_button">Favorite</string>
+    <string name="save_login_and_password">Save login and password</string>
+    <string name="change_login_and_password">Change login and password</string>
+</resources>
